@@ -1,0 +1,22 @@
+body {
+	background-color: #936639;
+	}
+
+h1 {
+	color: #583101;
+	font-size: 400%;
+	text-align: center;
+	background-color: #6f4518;
+	padding: 15px;
+
+}
+
+p {
+	color: #583101;
+	font-size: 100%;
+	text-align: center;
+}
+
+#one {
+	width:57%;
+	}
